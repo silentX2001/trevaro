@@ -13,8 +13,7 @@
     "react-scripts": "^4.0.3",
     "styled": "^1.0.0",
     "styled-components": "^5.3.3",
-    "web-vitals": "^1.1.2",
-    "node": "14.18.2"
+    "web-vitals": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
