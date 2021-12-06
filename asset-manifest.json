@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/trevaro/static/css/main.9890d3bc.chunk.css",
+    "main.js": "/trevaro/static/js/main.6f9f4b2d.chunk.js",
+    "main.js.map": "/trevaro/static/js/main.6f9f4b2d.chunk.js.map",
+    "runtime-main.js": "/trevaro/static/js/runtime-main.1f7b80a2.js",
+    "runtime-main.js.map": "/trevaro/static/js/runtime-main.1f7b80a2.js.map",
+    "static/js/2.9fd522d4.chunk.js": "/trevaro/static/js/2.9fd522d4.chunk.js",
+    "static/js/2.9fd522d4.chunk.js.map": "/trevaro/static/js/2.9fd522d4.chunk.js.map",
+    "index.html": "/trevaro/index.html",
+    "static/css/main.9890d3bc.chunk.css.map": "/trevaro/static/css/main.9890d3bc.chunk.css.map",
+    "static/js/2.9fd522d4.chunk.js.LICENSE.txt": "/trevaro/static/js/2.9fd522d4.chunk.js.LICENSE.txt",
+    "static/media/Destination1.b43b40eb.png": "/trevaro/static/media/Destination1.b43b40eb.png",
+    "static/media/Destination2.64eec980.png": "/trevaro/static/media/Destination2.64eec980.png",
+    "static/media/Destination3.b4028caa.png": "/trevaro/static/media/Destination3.b4028caa.png",
+    "static/media/Destination4.c19a433b.png": "/trevaro/static/media/Destination4.c19a433b.png",
+    "static/media/Destination5.8db742a0.png": "/trevaro/static/media/Destination5.8db742a0.png",
+    "static/media/Destination6.b43b40eb.png": "/trevaro/static/media/Destination6.b43b40eb.png",
+    "static/media/avatarImage.8cfef91e.jpg": "/trevaro/static/media/avatarImage.8cfef91e.jpg",
+    "static/media/bnr.944bbf95.jpg": "/trevaro/static/media/bnr.944bbf95.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f7b80a2.js",
+    "static/js/2.9fd522d4.chunk.js",
+    "static/css/main.9890d3bc.chunk.css",
+    "static/js/main.6f9f4b2d.chunk.js"
+  ]
+}
